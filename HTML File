@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Intentionally no <title> tag for accessibility testing -->
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Missing Title Test Page</h1>
+    <p>This page has no HTML <code>&lt;title&gt;</code> in the head section.</p>
+</body>
+</html>
